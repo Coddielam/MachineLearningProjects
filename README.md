@@ -1,10 +1,12 @@
 # MachineLearningProjects
-Hi! This repository contains some of my machine learning projects.
+This repository contains some of the data mining projects I conducted on my own. 
 
-Currently this respository contains my most recent machine learning project with the infamous Titanic Dataset.
+Currently there are two projects in this repository are both of them are in **Jupyter Notebook format**. 
 
-In this project, I cleaned the data, then conducted some exploratory analysis with some visualizations
-to understand what factors determined the survival of a passenger on the Titanic ship.
-Then I applied three classification models, which they are logistic regression, Sochastic Gradient Descent(SGD), 
-and Decision Tree, to model the data. 
-Finally, I compared the performances of the three models with cross validation testing and confusion matrix. 
+## Project Brief:
+### Titanic Dataset: Learning from Diaster
+In one of the dataset I explored the Titanic dataset to understand the types of passengers that would most likely survive the ship wreck. Through a series of exploratory analysis and visualizing the data, it becomes quite obvious that the survival of a passenger is largely determined by sex and passenger class/social status. 
+
+### Predicting Auto Insurance Risk
+I found this dataset from my business intelligence class's extra coursework section. I assumed the primary usage of the dataset is to predict whether of not a claim applicant's cliam would be accepted or not. Through a series of data visualizing, I came to the hypothesis that one type of claim applicant has the highest claim approval rate -- a young male with stable income and is not married with kids, or more particularly, a young male around 25 of age, who works in the public sector and drives a sports car. 
+* This project is still a work in progress; 
