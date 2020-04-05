@@ -5,6 +5,7 @@ Currently there are two projects in this repository are both of them are in **Ju
 
 ## Project Brief:
 ### Titanic Dataset: Learning from Diaster
+[View Titanic Project Jupyter Notebook] (https://github.com/Coddielam/MachineLearningProjects/blob/master/Titanic_Machine_Learning_Project_ChiuMing_Lam.ipynb)
 In one of the dataset I explored the Titanic dataset to understand the types of passengers that would most likely survive the ship wreck. Through a series of exploratory analysis and visualizing the data, it becomes quite obvious that the survival of a passenger is largely determined by sex and passenger class/social status. 
 
 ### Predicting Auto Insurance Risk
