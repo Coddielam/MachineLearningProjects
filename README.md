@@ -8,6 +8,14 @@ Currently there are two projects in this repository are both of them are in **Ju
 Link to Jupyter Notebook: (https://github.com/Coddielam/MachineLearningProjects/blob/master/Titanic_Machine_Learning_Project_ChiuMing_Lam.ipynb)
 In one of the dataset I explored the Titanic dataset to understand the types of passengers that would most likely survive the ship wreck. Through a series of exploratory analysis and visualizing the data, it becomes quite obvious that the survival of a passenger is largely determined by sex and passenger class/social status. 
 
+### New York Airbnb Unsupervised Learning (Principal Component Analysis)
+Link to Jupyter Notebook:
+
+Many people try to use the New York Airbnb dataset to predict the prices of the listing. However, since the prices of the listings are set by the hosts based on the recommendations from Airbnb's smart pricing system, predicting prices might not be the most sensible analysis. 
+When relationships between variables are unclear, it's oftentimes a good idea to explore the variables with unsupervised learning techniques.
+In this dataset, I conducted a Principal Component Analysis to identify the factors that set aparts the 5 major neighborhood groups: Brooklyn, Manhattan, Brooklyn, Bronx, Queens, and Staten Island. 
+
+
 ### Predicting Auto Insurance Risk
 Link to Jupyter Notebook:
 (https://github.com/Coddielam/MachineLearningProjects/blob/master/AutoInsuranceRisk_ChiuMingLam(Eddie).ipynb)
