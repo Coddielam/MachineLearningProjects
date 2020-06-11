@@ -2,7 +2,7 @@
 This repository contains some of the data mining projects I conducted on my own. 
 
 ## Project Brief:
-## Time Series Analysis: Forecasting Walmart Sales with SARIMA and Holt Winters' Expotential Smoothing
+### Time Series Analysis: Forecasting Walmart Sales with SARIMA and Holt Winters' Expotential Smoothing
 Link to Jupyter Notebook:
 https://github.com/Coddielam/MachineLearningProjects/blob/master/Time_Series_Walmart_Sales/Time%20Series%20Analysis%20w%20Walmart%20Sales%20EddieLam.ipynb
 In this project I applied two classical time series forecasting methods, which both account for trends and seasonalities in time-series data, and they are the Seasonal AutoRegressive Integrated Moving Average and the Holt Winters' Expotential Smoothing. In comparison, the Holt Winters ES approach was the succeeding method and the mean absolute prediction error associated with its predictions is ~3.8%.   
